@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "c9358db7338035de67f494f317a1ef61-coins-by-vexels.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "c9358db7338035de67f494f317a1ef61-coins-by-vexels-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "c9358db7338035de67f494f317a1ef61-coins-by-vexels-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
