@@ -1,3 +1,14 @@
+# Question 1  
+
+## Exceutable Instructions  
+`$ python3 problem1.py`   
+
+## Files
+```
+Makefile    
+main.c    //main program
+commitlog.txt //git log of all of our group commits 
+
 # Tip_Jar
 A simple app to calculate tips   
 Created by Sydney McGinnis    
